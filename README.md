@@ -1,2 +1,1 @@
-# Programacion-de-sistemas-tareas
-Programas del parcial
+Programas pacrial 1
